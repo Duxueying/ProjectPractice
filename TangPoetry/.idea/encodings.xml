@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/MultipleThreadCatch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/SingleThreadCatch.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ThreadPoolCatch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/DBConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/RankServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/lab/DetailPartDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/lab/HtmlUnitDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/lab/InsertWordDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/lab/SHA256Demo.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
